@@ -1,0 +1,49 @@
+# Examples of quotes taken from http://www.cws.illinois.edu/workshop/writers/tips/quotations/
+
+#In his Introduction to Lysistrata, Douglass Parker denies that the play is a "hoard of applied lubricity."
+## labels: reply (denies), summary(in his introduction), identity(Douglass Parker)
+## subject: play
+
+
+According to the Code on Campus Affairs, "No absence from class is excused."
+## labels: citation(According to the Code of Campus Affairs), answer(No absence from class is excused)
+
+
+Corrigan refers to the world of comedy as a "protected realm."
+## labels: citation(Corrigan)
+## subject: world of comedy
+
+Both Calidorus and Pseudolus agree that Phoenicium's letter is "terrible," but they mean different things.
+## citation(Calidorus and Pseudolus), opinion(terrible)
+## subject: Phoenicium's letter
+
+Samuel Pepys called Twelfth Night "one of the weakest plays that ever I saw on the stage."
+## citation(Samuel Pepys), opinion (one of the weakest plays that ever I saw on the stage."
+## subject: Twelfth Night
+
+"The comic mask," says Aristotle, "is ugly and distorted, but does not imply pain."
+
+# question
+Malvolio asks, "My masters, are you mad?"
+
+# question, summarized
+Why does Olivia call Malvolio "poor fool"?
+
+# excerpt, opinion
+"Some are born great . . . and some have greatness thrust upon ‘em."
+
+# summary, excerpt
+Cesario’s most impressive speech begins, "Make me a willow cabin at your gate. . . ."
+
+Lysistrata ends with a religious invocation, "sing to honor her-- / Athene of the Bronze House! / Sing Athene!
+
+In "The Reeve’s Tale," the miller’s daughter has "eyen as greye as glas" (120).
+Posing as Cesario, Viola tells Olivia, "I am not that I play" (1.5.187) .
+Aristotle defines comedy as "an imitation of characters of a lower type" (51).
+"My masters, are you mad?" becomes "My masters, are you mad?" (2.3.87).
+"Make me a willow cabin at your gate . . ." (1.5.273).
+Although the women of Greece swear to "withhold all rights of access or entrance" (32), they soon find their oath difficult to keep.
+On page 219, Pseudolus says he has "eyes like pumice stones."
+When Calidorus asks Pseudolus why Phoenicium's letter doesn't make him weep, Pseudolus responds that he has "eyes like pumice stones" (219).
+Feste's statement that "Foolery, sir, does walk about the orb like the sun; it shines everywhere" (3.1.40-41) is an appropriate comment on the other characters in the play.
+Feste's comment that foolishness, like sunlight, "shines everywhere" (3.1.41) could be taken as the theme of Twelfth Night.
