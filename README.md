@@ -46,7 +46,6 @@ findQuotes.find(quoteText, function cb(err, quotes){
     }
 ]
 ```
-```
 
 
 ## Extracting raw quote fragments
