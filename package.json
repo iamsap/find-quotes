@@ -1,0 +1,30 @@
+{
+  "name": "@iamsap/find-quotes",
+  "version": "0.0.1",
+  "description": "A library for identifying and labeling quotes in text.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsap/find-quotes.git"
+  },
+  "keywords": [
+    "nlp",
+    "text",
+    "machine-learning"
+  ],
+  "author": "robbymillsap@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamsap/find-quotes/issues"
+  },
+  "homepage": "https://github.com/iamsap/find-quotes#readme",
+  "dependencies": {
+    "pos": "^0.4.2"
+  },
+  "devDependencies": {
+    "fs": "0.0.1-security"
+  }
+}
